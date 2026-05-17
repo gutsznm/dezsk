@@ -1,66 +1,84 @@
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F57A2A&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Cloud+Computing;Next.js+Developer" />
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=USERNAME&color=orange)
+
+[![Deni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)](https://github.com/USERNAME)
+
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Deni</h1>
 
-![Deni's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+<h3 align="center">
+Software Engineer | Backend Developer | Cloud Computing
+</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
-
----
-
-# 8. Tambahkan Contribution Snake
-
-Animasi ular contribution.
-
-Pakai:
-
-:contentReference[oaicite:5]{index=5}
-
-Hasilnya bikin profile lebih hidup.
+<p align="center">
+I love building web applications, backend systems, and scalable software.
+</p>
 
 ---
 
-# 9. Gunakan Tema Warna Konsisten
+## 🚀 Tech Stack
 
-Karena kamu sering pakai warna orange `#f57a2a`, bisa konsisten untuk:
-- Banner
-- Badge
-- README
-- Screenshot project
+<p align="left">
 
-Ini bikin branding profile lebih bagus.
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mysql,postgres,docker,git,github,vscode" />
+
+</p>
 
 ---
 
-# 10. Isi Contribution Graph
+## 📊 GitHub Stats
 
-Supaya graph hijau terus:
-- Commit rutin
-- Upload mini project
-- Dokumentasi belajar
-- Challenge harian
-- Learning notes DevOps/Docker
+<p align="center">
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"
+/>
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"
+/>
+
+</p>
 
 ---
 
-# Inspirasi GitHub Profile
+## 🔥 Current Focus
 
-Cari inspirasi di:
-
-:contentReference[oaicite:6]{index=6}
+- Backend Engineering
+- Docker & CI/CD
+- Cloud Computing
+- System Design
+- Fullstack Development
 
 ---
 
-Kalau mau, saya juga bisa bantu:
-- :contentReference[oaicite:7]{index=7}
-- :contentReference[oaicite:8]{index=8}
-- :contentReference[oaicite:9]{index=9}
-- :contentReference[oaicite:10]{index=10}
-- :contentReference[oaicite:11]{index=11}
-- :contentReference[oaicite:12]{index=12}
-- :contentReference[oaicite:13]{index=13}
+## 🌟 Featured Projects
+
+### Warehouse Management System
+Production and inventory management dashboard using Next.js.
+
+### Face Detection Python Game
+Interactive camera game using Python and MediaPipe.
+
+### DevOps Learning Projects
+Docker, GitHub Actions, and deployment experiments.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/USERNAME">
+GitHub
+</a>
+
+</p>
